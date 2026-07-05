@@ -21,7 +21,7 @@ Under a strict 50 MB additive memory budget (e.g., smart glasses running an LLM)
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/acoustic-anchoring.git
+git clone https://github.com/estrizal/GITHUB_UPLOAD.git
 cd acoustic-anchoring
 pip install -r requirements.txt
 ```
