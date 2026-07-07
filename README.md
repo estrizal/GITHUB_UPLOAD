@@ -1,6 +1,6 @@
 # Acoustic Anchoring
 
-Official repository for **Acoustic Anchoring**, accepted at **IEEE SLT 2026 (Demo Track)**.
+Official repository for **Acoustic Anchoring**, Submission at:-  **IEEE SLT 2026 (Demo Track)**.
 
 ![Pipeline Overview](assets/pipeline_figure.png)
 
